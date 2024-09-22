@@ -1,0 +1,38 @@
+main {
+  background-color: gray;
+  height: 100px;
+  display: flex;
+  justify-content:center;
+  border-radius: 20px;
+  
+  
+}
+#root{
+  margin: 0;
+  padding: 0;
+}
+#nav{
+  background-color: rgb(61, 61, 61);
+  width: 100%;
+  padding: 5px;
+  position: sticky;
+  top: 0px;
+}
+#nav ul{
+  display: flex;
+  justify-content: flex-end;
+
+  padding-right: 25px;
+}
+#nav li{
+  list-style: none;
+  display: inline;
+  margin: 10px;
+
+
+
+}
+.link{
+  text-decoration: none;
+  color: aliceblue;
+}
