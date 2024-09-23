@@ -36,3 +36,7 @@ main {
   text-decoration: none;
   color: aliceblue;
 }
+
+#header{
+  text-align: center;
+}
